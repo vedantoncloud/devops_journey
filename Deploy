@@ -1,0 +1,14 @@
+A series on deployment on code
+
+# Finding a VPS 
+1) What is VPS?
+- In simple words we can say that we want a computer which is provided by somebody like we dont want to utilise our cpmputer resoureses.
+as we cannot keep our computer up all the time so for these there are datacentres available which plays a major role here and we just 
+need to go test run and deploy the services and we can keep it up all the time. also there are cloud providers like aws, google cloud and many
+which gives the same services but on the traffic and also with its model basis like pay as uh go and all.
+
+# we can use the amazon lightsail pricing in aws but theya re fixed price machine and we can see its pricing on going onto it.
+
+simply go on the platfrom go on DNS add ur virtual machine public ip address where uh have created ur domin like amazon and simply run it
+
+Termial -  i am gonna use the Wrap coz its devops friendly and simply i can use my own language rather than commands
